@@ -33,7 +33,7 @@
 
 ## 🛠️ Technologies I have worked with
 
-[![Technologies](https://skillicons.dev/icons?i=arduino,cloudflare,docker,git,github,gradle,idea,linux,redhat,vscode,md,discord,ubuntu,raspberrypi,ps,regex&perline=8)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=arduino,docker,git,github,gradle,idea,linux,vscode,md,discord,ubuntu,raspberrypi,ps,regex&perline=7)](https://skillicons.dev)
 
 ## 🔥 Statistics
 
