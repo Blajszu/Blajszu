@@ -29,7 +29,7 @@
 
 ## 🚀 Languages that I know
 
-[![Languages](https://skillicons.dev/icons?i=py,java,gradle,c,cpp,cs,bash,r,rust,elixir,bootstrap,html,css,js,ts,php,mysql,react&perline=9)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,java,c,cpp,cs,bash,r,rust,elixir,bootstrap,html,css,js,ts,php,mysql,react&perline=9)](https://skillicons.dev)
 
 ## 🛠️ Technologies I have worked with
 
