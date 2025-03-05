@@ -16,7 +16,7 @@
 
 - 💼 **Web Developer** at **Pasja Informatyki**, worked with **PHP**, **JavaScript**, **SQL**, **CSS**, and **HTML** on web applications and backend solutions.
 
-- 💻 **Java Developer** at **CBI AGH**, contributing to innovative software projects.
+- 💻 **Java Developer** at **CTB AGH**, contributing to innovative software projects.
 
 - 👨‍🎓 Currently pursuing a **Bachelor's degree** in **Computer Science** at the **Faculty of Computer Science** at **AGH University of Krakow**.
 
