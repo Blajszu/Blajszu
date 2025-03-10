@@ -24,6 +24,8 @@
 
 - 🤖 Enthusiastic about **robotics** and **electronics ⚡**, spending time on hands-on projects. I also enjoy exploring **indie games 🎮** and have a background in **model aircraft building ✈️**, which sparked my interest in engineering and technology.
 
+- 🏅 Laureate of the [Ogólnopolska Olimpiada Wiedzy Elektrycznej i Elektronicznej](https://oowee.agh.edu.pl/) in the Computer Science category, organized by AGH, in 2021
+
 <br>
 <div align="center">
 
