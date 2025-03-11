@@ -14,8 +14,6 @@
 
 ### Key facts
 
-
-
 - 💼 **Web Developer** at **Pasja Informatyki**, worked with **PHP**, **JavaScript**, **SQL**, **CSS**, and **HTML** on web applications and backend solutions.
 
 - 💻 **Java Developer** at **CTB AGH**, contributing to innovative software projects.
