@@ -16,7 +16,7 @@
 
 - 💼 **Web Developer** at **Pasja Informatyki**, worked with **PHP**, **JavaScript**, **SQL**, **CSS**, and **HTML** on web applications and backend solutions.
 
-- 💻 **Java Developer** at **CTB AGH**, contributing to innovative software projects.
+- 💻 **Java Developer** at **AGH Security Technology Center**, contributing to innovative software projects.
 
 - 👨‍🎓 Currently pursuing a **Bachelor's degree** in **Computer Science** at the **Faculty of Computer Science** at **AGH University of Krakow**.
 
@@ -25,6 +25,12 @@
 - 🤖 Enthusiastic about **robotics** and **electronics ⚡**, spending time on hands-on projects. I also enjoy exploring **indie games 🎮** and have a background in **model aircraft building ✈️**, which sparked my interest in engineering and technology.
 
 - 🏅 Laureate of the [Ogólnopolska Olimpiada Wiedzy Elektrycznej i Elektronicznej](https://oowee.agh.edu.pl/) in the Computer Science category, organized by AGH University, in 2021
+
+- 🏆 1st place winner at **SWM Hackathon 2025**, together with my team:
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ae6b01f7-3c86-4f12-b557-ecc1cdc2932a" width="70%">
+</div>
 
 <br>
 <div align="center">
