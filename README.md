@@ -45,7 +45,7 @@
 
 ## 🔥 Statistics
 
-![Blajszu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blajszu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook)
+![Blajszu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blajszu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook&exclude_repo=Basics_Of_Artificial_Intelligence_Course)
 ![Blajszu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blajszu&hide=stars&hide_rank=true&show_icons=true&icon_color=800480&title_color=41b883&bg_color=273849&hide_border=true&text_color=ffffff&text_bold=false)
 
 <picture>
